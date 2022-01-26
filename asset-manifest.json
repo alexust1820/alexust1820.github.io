@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e308ba98.css",
+    "main.js": "./static/js/main.e5afc543.js",
+    "static/js/787.b7b636fc.chunk.js": "./static/js/787.b7b636fc.chunk.js",
+    "static/media/Zinger-mob.svg": "./static/media/Zinger-mob.258cca1d9b78ce6a4bce.svg",
+    "static/media/Zinger.svg": "./static/media/Zinger.9f7bde66d5d9b130fa2c.svg",
+    "static/media/Manrope-Medium.ttf": "./static/media/Manrope-Medium.c1117ffc8855673d0172.ttf",
+    "static/media/Manrope-Light.ttf": "./static/media/Manrope-Light.182f890e193b3af623fa.ttf",
+    "static/media/Start Fellows.svg": "./static/media/Start Fellows.2f915dfa8ef83c3b51dc.svg",
+    "index.html": "./index.html",
+    "main.e308ba98.css.map": "./static/css/main.e308ba98.css.map",
+    "main.e5afc543.js.map": "./static/js/main.e5afc543.js.map",
+    "787.b7b636fc.chunk.js.map": "./static/js/787.b7b636fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e308ba98.css",
+    "static/js/main.e5afc543.js"
+  ]
+}
